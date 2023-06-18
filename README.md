@@ -1,5 +1,5 @@
-<p style="margin-bottom: 0;">Hi, my name is</p>
-<h1 style="border:none;">Aung Phyo Thant</h1>
+<p style="margin-bottom:0px;">Hi, my name is</p>
+<h1 style="border-bottom:none;">Aung Phyo Thant</h1>
 <p>Front-end Developer</p>
 
 ### Languages and Tools
