@@ -1,8 +1,6 @@
-# Hi, my name is
-### Aung Phyo Thant
-## Front-end Developer
-
----
+<p style="margin-bottom: 0;">Hi, my name is</p>
+<h1 style="border:none;">Aung Phyo Thant</h1>
+<p>Front-end Developer</p>
 
 ### Languages and Tools
 
