@@ -24,7 +24,7 @@
 
 <br/>
 
-[![Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungPhyoThant224)](https://github.com/anuraghazra/github-readme-stats)
+[![Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungPhyoThant224)](https://github.com/AungPhyoThant224/github-readme-stats)
 
 <!--
 **AungPhyoThant224/AungPhyoThant224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
