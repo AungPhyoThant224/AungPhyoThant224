@@ -36,10 +36,6 @@
 
 ![Aung's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AungPhyoThant224&show_icons=true&theme=transparent)
 
-<br/>
-
-![Profile View](https://komarev.com/ghpvc/?username=AungPhyoThant224&abbreviated=true)
-
 <!--
 **AungPhyoThant224/AungPhyoThant224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
